@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ConstructionSite Manager</string>
+    <string name="default_web_client_id">646488707616-iutea7es9m44ksf6m60du78tke1pmdma.apps.googleusercontent.com</string>
+    <string name="welcome_message">Welcome to ConstructionSite Manager</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="worker_management">Worker Management</string>
+    <string name="task_management">Task Management</string>
+    <string name="equipment_tracking">Equipment Tracking</string>
+    <string name="progress_report">Progress Report</string>
+    <string name="active_workers">Active Workers</string>
+    <string name="tasks">Tasks</string>
+    <string name="equipment">Equipment</string>
+    <string name="progress">Progress</string>
+    <string name="add_worker">Add Worker</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_equipment">Add Equipment</string>
+    <string name="add_report">Add Report</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="name">Name</string>
+    <string name="role">Role</string>
+    <string name="phone">Phone</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="status">Status</string>
+    <string name="due_date">Due Date</string>
+    <string name="type">Type</string>
+    <string name="condition">Condition</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="percentage">Percentage</string>
+    <string name="photos">Photos</string>
+    <string name="caption">Caption</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+</resources>
